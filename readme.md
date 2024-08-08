@@ -1,6 +1,6 @@
 ### Prerequisites
 
-- Python 3.10
+- Python
 
 ### Installation
 
