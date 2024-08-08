@@ -1,0 +1,7 @@
+mmengine
+mmcv
+mmpose
+mmdet
+numpy
+gradio
+opencv-python
