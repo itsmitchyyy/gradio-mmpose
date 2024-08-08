@@ -5,3 +5,4 @@ mmdet
 numpy
 gradio
 opencv-python
+ffmpeg
